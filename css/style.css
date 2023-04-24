@@ -194,7 +194,7 @@ main {
 
 
 #slider {
-    background-color: yellow;
+    /* background-color: yellow; */
     height: 450px;
     overflow-x: hidden;
 }
